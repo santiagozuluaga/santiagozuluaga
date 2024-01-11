@@ -25,8 +25,8 @@ Software developer with 2+ years of experience working in large-scale microservi
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 #### Backend:
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 #### Cloud Providers and Infrastructure:

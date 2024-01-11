@@ -45,8 +45,8 @@ Software developer with 2+ years of experience working in large-scale microservi
   
 
 ## Work experience 👔
-| Job Position           | Company         | Work Period         | Skills                                                           |
-| ---------------------- | --------------- | ------------------- | ---------------------------------------------------------------- |
-| Software developer     | Truora Inc.     | 2022-05 — now       | AWS, Go, Typescript, Vue.js                                      |
-| Full Stack Developer   | Spartan Hill    | 2021-06 — 2022-04   | React.js, React Native, Node.js, MongoDB, Typescript, Blockchain |
-| Full Stack Developer   | Techserc Inc.   | 2021-01 — 2022-04   | React.js, React Native, Node.js, MongoDB, Typescript             |
+| Job Position           | Company         | Work Period         | Skills                                                |
+| ---------------------- | --------------- | ------------------- | ----------------------------------------------------- |
+| Software developer     | Truora Inc.     | 2022-05 — now       | AWS, Go, Typescript, Vue.js                           |
+| Full Stack Developer   | Spartan Hill    | 2021-06 — 2022-04   | React.js, React Native, Node.js, MongoDB, Typescript  |
+| Full Stack Developer   | Techserc Inc.   | 2021-01 — 2022-04   | React.js, React Native, Node.js, MongoDB, Typescript  |

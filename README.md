@@ -42,11 +42,3 @@ Software developer with 2+ years of experience working in large-scale microservi
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-
-## Work experience 👔
-| Job Position                       | Company         | Work Period         | Skills                                                |
-| ---------------------------------- | --------------- | ------------------- | ----------------------------------------------------- |
-| Software developer - Full time     | Truora Inc.     | 2022-05 — now       | AWS, Go, Typescript, Vue.js                           |
-| Full Stack Developer - Full time   | Spartan Hill    | 2021-06 — 2022-04   | React.js, React Native, Node.js, MongoDB, Typescript  |
-| Full Stack Developer - Part time   | Techserc Inc.   | 2021-01 — 2022-04   | React.js, React Native, Node.js, MongoDB, Typescript  |
